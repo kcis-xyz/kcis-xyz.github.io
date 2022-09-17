@@ -1,1 +1,5 @@
-:root{--primary: rgb(252, 141, 36);--primary-opaque: rgb(240, 147, 60);--primary-opaque-strong: rgb(240, 150, 66)}
+:root {
+    --primary: #3EBFFF;
+    --primary-opaque: #48b1e6;
+    --primary-opaque-strong: #3EBFFF;
+}
